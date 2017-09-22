@@ -1,0 +1,21 @@
+{
+  "name": "sanitize-styled-jsx",
+  "version": "0.0.0",
+  "description": "Sanitize React components using styled-jsx",
+  "main": "index.js",
+  "repository": "https://github.com/bukinoshita/sanitize-styled-jsx.git",
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "keywords": ["jest", "sanitize", "styled-jsx", "jsx", "style", "styled", "react", "component", "css-in-js"]
+  "scripts": {
+    "test": "xo --quiet && ava"
+  },
+  "devDependencies": {
+    "ava": "^0.22.0",
+    "eslint-config-prettier": "^2.5.0",
+    "xo": "^0.18.2"
+  },
+  "xo": {
+    "extends": ["prettier"]
+  }
+}

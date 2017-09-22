@@ -6,7 +6,17 @@
   "repository": "https://github.com/bukinoshita/sanitize-styled-jsx.git",
   "author": "Bu Kinoshita <bukinoshita@gmail.com>",
   "license": "MIT",
-  "keywords": ["jest", "sanitize", "styled-jsx", "jsx", "style", "styled", "react", "component", "css-in-js"]
+  "keywords": [
+    "jest",
+    "sanitize",
+    "styled-jsx",
+    "jsx",
+    "style",
+    "styled",
+    "react",
+    "component",
+    "css-in-js"
+  ],
   "scripts": {
     "test": "xo --quiet && ava"
   },

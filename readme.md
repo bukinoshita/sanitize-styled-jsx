@@ -1,6 +1,6 @@
-# sanitize-styled-jsx
+# sanitize-styled-jsx [![Build Status](https://travis-ci.org/bukinoshita/sanitize-styled-jsx.svg?branch=master)](https://travis-ci.org/bukinoshita/sanitize-styled-jsx)
 
-> Sanitize React components using styled-jsx
+> Sanitize React components using [styled-jsx](https://github.com/zeit/styled-jsx)
 
 
 ## Install

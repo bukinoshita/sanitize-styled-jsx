@@ -6,6 +6,7 @@
   "repository": "https://github.com/bukinoshita/sanitize-styled-jsx.git",
   "author": "Bu Kinoshita <bukinoshita@gmail.com>",
   "license": "MIT",
+  "files": ["index.js"],
   "keywords": [
     "jest",
     "sanitize",
@@ -26,8 +27,6 @@
     "xo": "^0.18.2"
   },
   "xo": {
-    "extends": [
-      "prettier"
-    ]
+    "extends": ["prettier"]
   }
 }
